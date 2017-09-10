@@ -1,4 +1,4 @@
-## Welcome to My page
+## Welcome to my 4.032 page
  You can use the [editor on GitHub](https://github.com/amandalowery10/4.032/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 
