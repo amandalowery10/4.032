@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="main.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+  <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.7/p5.min.js"></script>
+  <script src="./circlegraph.js"></script>
+  <script src="./normalizedwomenengineers.js"></script>
+
+
+
+</head>
+<body>
+  <h6 id="supertitle" align="center"> Can women have it all? </h6>
+  <h1 id="description" align="center"> "Everyone knows that marriage is an important personal decision, but no one realizes that for women, it's an important career decision too." </h1>
+  <h5 id="description4" align="center"> The correlation between the number of female engineers and the different types of family structures of each state was explored. </h5>
+  <h4 id="graph_titlez" align="center"> Absolute Number of Female Engineers per State</h4>
+  <div id="regions_div"  align="center"></div>
+  <div id="regions_div2" align="center" style="display:none"></div>
+
+  <div style="width:800px;margin:auto" >
+    <!-- Rounded switch -->
+    <label  class="switch">
+      <input  type="checkbox">
+      <span id="slider" class="slider round"></span>
+    </label>
+    <span id="slider_label"> Change Graphs</span>
+  </div>
+  <!-- Trigger/Open The Modal -->
+  <!-- <button id="myBtn">Open Modal</button> -->
+
+  <!-- The Modal -->
+  <div id="myModal" class="modal">
+
+    <!-- Modal content -->
+    <div class="modal-content">
+      <span class="close">&times;</span>
+      <p>Some text in the Modal..</p>
+    </div>
+  </div>
+  <div align="center">
+    <div style="display:inline-block">
+      <div id="sketch-holder">
+      </div>
+      <h3 id="title1">
+        have children and are married
+      </h3>
+    </div>
+
+    <div style="display:inline-block">
+      <div id="sketch-holder2">
+      </div>
+      <h3 id="title2">
+        have children but are not married
+      </h3>
+    </div>
+
+    <div style="display:inline-block">
+      <div id="sketch-holder3">
+      </div>
+      <h3 id="title3">
+        do not have children and are not married
+      </h3>
+    </div>
+
+    <h3 id="description" align="center"> Wyoming had the greatest number of females that had children but were not married. </h3>
+    <h3 id="description" align="center"> In absolute terms, California had the greatest number of female engineers (60,290 women!).</h3>
+    <h3 id="description" align="center"> Colorado had the greatest density of female engineers (roughly every 4 out of 1000 women in Colorado are engineers). </h3>
+    <h3 id="description" align="center"> In Wyoming, 299671 women have children but are not married. </h3>
+    <h3 id="description" align="center"> There appears to be a trend between states that have a large number of female engineers and states that tend to have high marriage rates. </h3>
+
+
+  </div>
+
+</body>
+</html>
