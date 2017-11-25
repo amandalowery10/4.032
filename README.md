@@ -10,9 +10,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Project 2: Weather Apps
 
-Literal Weather App: (https://amandalowery10.github.io/4032weatherApps/literalweather.html)
+[Literal Weather App](https://amandalowery10.github.io/4032weatherApps/literalweather.html)
 
-Abstract Weather App: (https://amandalowery10.github.io/4032weatherApps/abstractweather.html)
+[Abstract Weather App](https://amandalowery10.github.io/4032weatherApps/abstractweather.html)
 
 ### Project 3: Census Data
 
