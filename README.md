@@ -6,7 +6,29 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Project 1: Clocks
 
-[Link](url)
+[Clock 1](https://amandalowery10.github.io/4.032/Clocks/clock1.html)
+
+[Clock 2](https://amandalowery10.github.io/4.032/Clocks/clock2.html)
+
+[Clock 3](https://amandalowery10.github.io/4.032/Clocks/clock3.html)
+
+[Clock 4](https://amandalowery10.github.io/4.032/Clocks/clock4.html)
+
+[Clock 5](https://amandalowery10.github.io/4.032/Clocks/clock5.html)
+
+[Clock 6](https://amandalowery10.github.io/4.032/Clocks/clock6.html)
+
+[Clock 7](https://amandalowery10.github.io/4.032/Clocks/clock7.html)
+
+[Clock 8](https://amandalowery10.github.io/4.032/Clocks/clock8.html)
+
+[Clock 9](https://amandalowery10.github.io/4.032/Clocks/clock9.html)
+
+[Clock 10](https://amandalowery10.github.io/4.032/Clocks/clock10.html)
+
+[Clock 11](https://amandalowery10.github.io/4.032/Clocks/clock11.html)
+
+[Clock 12](https://amandalowery10.github.io/4.032/Clocks/clock12.html)
 
 ### Project 2: Weather Apps
 
