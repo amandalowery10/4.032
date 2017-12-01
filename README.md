@@ -38,7 +38,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Project 3: Census Data
 
-[Female Engineers Census Data] (https://amandalowery10.github.io/4.032/Census_Data/)
+[Female Engineers Census Data](https://amandalowery10.github.io/4.032/Census_Data/)
 
 ### Project 4: Final Project
 
