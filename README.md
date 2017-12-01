@@ -40,6 +40,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [Female Engineers Census Data] (https://amandalowery10.github.io/4.032/Census_Data/)
 
-### Project 4: Autism Infographics
+### Project 4: Final Project
 
-[Link](url) and ![Image](src)
+[Autism Infographic](https://amandalowery10.github.io/4.032/Final_Project/)
