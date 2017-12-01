@@ -1,0 +1,113 @@
+body {
+    background-color:#B0E0E6;
+    margin:0px;
+}
+
+hr {
+   border: none;
+   border-top: 7px dotted white;
+ }
+
+/*h1 { color: black; font-family: 'Futura', sans-serif; font-size: 60px; letter-spacing: -1px; line-height: 1; text-align: center; } */
+h1 { color: white; font-family: 'PT Sans', sans-serif; font-size: 60px;}
+h2 { color: white; font-family: 'PT Sans', sans-serif; font-size: 20px;}
+span { color: white; font-family: 'Leckerli One', cursive; font-size: 60px;}
+
+
+#title_container{
+  min-height:150px;
+  background-color: #5199A3;
+}
+
+#supertitle{
+  margin:0px
+}
+
+
+#peeps{
+  min-height:100px;
+}
+
+.boy{
+  width:30px;
+  height:90px;
+}
+
+#bro{
+  left: 30px;
+  min-height: 40px;
+  color: white;
+  sans-serif
+}
+
+#boygirltext{
+  left: 30px;
+  padding-left: 50px;
+}
+
+#girl_container{
+  width:30px;
+  height:90px;
+  bottom: -30px;
+  left: 150px;
+  display: inline-block;
+}
+
+#girl{
+  width:30px;
+  height:110px;
+  position: relative;
+  left: 150px;
+  bottom: -10px;
+  background-image: url("girl.svg");
+  background-repeat:no-repeat;
+  display: inline-block;
+  margin:auto;
+  vertical-align: middle;
+}
+
+#girl:hover{
+  background-image: url("white_girl.svg")
+  bottom: -30px;
+  left: 150px;
+}
+
+#myChart{
+  padding-top: 50px;
+  padding-left: 50px;
+}
+
+#boy1{
+  position: relative;
+  left: 100px;
+  bottom:-30px;
+  /*CHANGE ^^ FOR PLACEMENT OF THE MEN */
+}
+
+#boy2{
+  position: relative;
+  left: 110px;
+  bottom: -30px;
+  /*CHANGE ^^ FOR PLACEMENT OF THE MEN */
+}
+
+#boy3{
+  position: relative;
+  left: 120px;
+  bottom: -30px;
+  /*CHANGE ^^ FOR PLACEMENT OF THE MEN */
+}
+
+#boy4{
+  position: relative;
+  left: 130px;
+  bottom:-30px;
+  /*CHANGE ^^ FOR PLACEMENT OF THE MEN */
+}
+
+#boy5{
+  position: relative;
+  left: 140px;
+  bottom: -30px;
+  /*CHANGE ^^ FOR PLACEMENT OF THE MEN */
+}
