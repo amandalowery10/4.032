@@ -7,19 +7,23 @@ $( document ).ready(function() {
 
 
 var girlHoverIn = function(){
-  $("#girl").css('opacity',.5);
+  // $("#girl").css('opacity',.5);
+  // $("#girltext").text("Fewer girls are diagnosed because they don’t fit autism stereotypes and they mask symptoms better than boys do.");
+  $("#girl").attr('src',"white_girl.svg");
 }
 
 var girlHoverOut = function(){
-  $("#girl").css({'opacity':1});
+  // $("#girl").css({'opacity':1});
+  // $("#girltext").text("");
+  $("#girl").attr('src',"white_girl.svg");
 }
 
 var boyHoverIn = function(){
   $("#boy1").attr('src',"white_boy.svg");
-  $("#bro").text("This is my little brother, Logan.");
+  // $("#bro").show();
 }
 
 var boyHoverOut = function(){
   $("#boy1").attr('src',"boy.svg");
-  $("#bro").text("");
+  // $("#bro").hide();
 }

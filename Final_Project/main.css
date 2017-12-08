@@ -6,27 +6,50 @@ body {
 hr {
    border: none;
    border-top: 7px dotted white;
+   padding-bottom:20px;
  }
 
 /*h1 { color: black; font-family: 'Futura', sans-serif; font-size: 60px; letter-spacing: -1px; line-height: 1; text-align: center; } */
-h1 { color: white; font-family: 'PT Sans', sans-serif; font-size: 60px;}
-h2 { color: white; font-family: 'PT Sans', sans-serif; font-size: 20px;}
-span { color: white; font-family: 'Leckerli One', cursive; font-size: 60px;}
+h1 { color: white; font-family: 'Avenir', sans-serif; font-size: 55px;}
+h2 { color: white; font-family: 'Avenir', sans-serif; font-size: 20px;}
+h3 { color: white; font-family: 'Avenir', sans-serif; font-size: 20px;}
+span { }
 
 
-#title_container{
-  min-height:150px;
+.title_container{
+  /*min-height:150px;*/
   background-color: #5199A3;
 }
+
+.inline{
+  display: inline-block;
+}
+
 
 #supertitle{
   margin:0px
 }
 
+.secondsupertitle{
+  color: white; font-family: 'HelloScript', cursive; font-size: 60px;
+}
+
 
 #peeps{
-  min-height:100px;
+  display: inline-block;
+  min-height:400px;
+  min-width: 400px;
 }
+
+/*#peeps img {
+     position: absolute;
+     z-index: 0;
+}
+#peeps img:hover {
+     position: absolute;
+     z-index: 1;
+}*/
+
 
 .boy{
   width:30px;
@@ -40,74 +63,57 @@ span { color: white; font-family: 'Leckerli One', cursive; font-size: 60px;}
   sans-serif
 }
 
+
 #boygirltext{
   left: 30px;
   padding-left: 50px;
 }
 
-#girl_container{
-  width:30px;
-  height:90px;
-  bottom: -30px;
-  left: 150px;
-  display: inline-block;
+
+#myChart{
+  margin-bottom: 30px;
 }
 
 #girl{
-  width:30px;
-  height:110px;
-  position: relative;
-  left: 150px;
-  bottom: -10px;
-  background-image: url("girl.svg");
-  background-repeat:no-repeat;
-  display: inline-block;
+  width:40px;
+  height:90px
+}
+
+
+
+.feels-img{
+  width:33%;
+  height:200px;
+  display: block;
   margin:auto;
-  vertical-align: middle;
 }
 
-#girl:hover{
-  background-image: url("white_girl.svg")
-  bottom: -30px;
-  left: 150px;
+.feels-wrapper{
+  width:33%;
+  min-height:300px;
 }
 
-#myChart{
-  padding-top: 50px;
-  padding-left: 50px;
+#dotStat{
+  display: inline-block;
+  padding-left: 100px;
 }
 
-#boy1{
-  position: relative;
-  left: 100px;
-  bottom:-30px;
-  /*CHANGE ^^ FOR PLACEMENT OF THE MEN */
+#imgContainer{
+  padding-left: 130px;
 }
 
-#boy2{
-  position: relative;
-  left: 110px;
-  bottom: -30px;
-  /*CHANGE ^^ FOR PLACEMENT OF THE MEN */
+#left-bar{
+  width:66%;
+  padding-right: 5%;
+  height:100px;
+  background-color: #5199A3;
+}
+#right-bar{
+  width:28.6%;
+  height:100px;
+  background-color: #5199A3;
 }
 
-#boy3{
-  position: relative;
-  left: 120px;
-  bottom: -30px;
-  /*CHANGE ^^ FOR PLACEMENT OF THE MEN */
-}
+#resources{
 
-#boy4{
-  position: relative;
-  left: 130px;
-  bottom:-30px;
-  /*CHANGE ^^ FOR PLACEMENT OF THE MEN */
-}
-
-#boy5{
-  position: relative;
-  left: 140px;
-  bottom: -30px;
-  /*CHANGE ^^ FOR PLACEMENT OF THE MEN */
 }
